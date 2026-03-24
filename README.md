@@ -23,22 +23,6 @@ A Java-based desktop application for managing hotel operations like room booking
 
 ---
 
-## 📁 Project Structure
-
-HotelEase/
-
-│
-
-├── bookingclient/       # Client-side (Room booking UI)
-
-├── bookingserver/       # Server-side logic
-
-├── hotelmanagement/     # Admin dashboard and management
-
-├── resources/           # Images and assets
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1. Database Setup

@@ -79,22 +79,10 @@ In real-world applications:
 
 ---
 
-## 📸 Screenshots
-
-(Add your screenshots here)
-
----
-
 ## 📌 Disclaimer
 
 This project is created for educational purposes.
 All personal and system-specific details have been removed before publishing.
-
----
-
-## 👨‍💻 Author
-
-Anonymous Developer
 
 ---
 
